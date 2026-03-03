@@ -1,0 +1,14 @@
+plugins:
+  - rubocop-rspec
+
+AllCops:
+  TargetRubyVersion: 3.2
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
+Style/StringLiteralsInInterpolation:
+  EnforcedStyle: double_quotes
+  
+RSpec/ExampleLength:
+  Max: 15
