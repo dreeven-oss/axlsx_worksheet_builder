@@ -3,7 +3,7 @@
 require_relative "lib/axlsx_worksheet_builder/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "axlsx-worksheet-builder"
+  spec.name = "axlsx_worksheet_builder"
   spec.version = AxlsxWorksheetBuilder::VERSION
   spec.authors = ["drvn-eb"]
 

@@ -9,13 +9,13 @@ Inspired from code originally written by [Samuel Trottier](https://github.com/Sa
 Install the gem and add to the application's Gemfile by executing:
 
 ```bash
-bundle add axlsx-worksheet-builder
+bundle add axlsx_worksheet_builder
 ```
 
 If bundler is not being used to manage dependencies, install the gem by executing:
 
 ```bash
-gem install axlsx-worksheet-builder
+gem install axlsx_worksheet_builder
 ```
 
 ## Usage

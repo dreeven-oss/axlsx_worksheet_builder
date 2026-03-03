@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    axlsx-worksheet-builder (1.0.0)
+    axlsx_worksheet_builder (1.0.1)
       caxlsx
 
 GEM
@@ -106,7 +106,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  axlsx-worksheet-builder!
+  axlsx_worksheet_builder!
   caxlsx
   irb
   rake (~> 13.0)
@@ -118,7 +118,7 @@ DEPENDENCIES
 CHECKSUMS
   addressable (2.8.9) sha256=cc154fcbe689711808a43601dee7b980238ce54368d23e127421753e46895485
   ast (2.4.3) sha256=954615157c1d6a382bc27d690d973195e79db7f55e9765ac7c481c60bdb4d383
-  axlsx-worksheet-builder (1.0.0)
+  axlsx_worksheet_builder (1.0.1)
   bigdecimal (4.0.1) sha256=8b07d3d065a9f921c80ceaea7c9d4ae596697295b584c296fe599dd0ad01c4a7
   caxlsx (4.4.1) sha256=c23e756a73737250d1571b51ed5c91a830178c60444da2728d345cdc7c9f272f
   date (3.5.1) sha256=750d06384d7b9c15d562c76291407d89e368dda4d4fff957eb94962d325a0dc0
